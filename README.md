@@ -15,4 +15,4 @@ Caveats:
   The program fails if the line segment is very short, since the Canny edge detection fails to give enough weightage to very small line segments.
   The circle and line detectors have slight drifts, which can be rectified by:-
     a) Further fine tuning the detectors
-    b) Make a network capable to learn and adjust
+    b) Make a network capable to learn and adjust 
